@@ -6,7 +6,8 @@ Le projet vise à maximiser l'efficacité du déplacement tout en respectant les
 
 ## 🎯 Contexte et Objectifs
 Marrakech connaît des goulots d'étranglement majeurs sur ses axes structurants aux heures de pointe. Ce projet se concentre sur deux artères principales :
-*L'Avenue Mohammed V.
+
+* L'Avenue Mohammed V.
 * L'Avenue Hassan II.
 
 ## 📐 Modèle Mathématique
